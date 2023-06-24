@@ -4,7 +4,7 @@
 
 /**
  * _printf -  a function that produces output according to a format.
- * 
+ *
  * @format: output format
  *
  * Return:the number of characters printed.
